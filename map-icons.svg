@@ -2,7 +2,7 @@
   <defs>
     <style>
       svg {
-        background-color: #66E4EE;
+         background-color: #66E4EE;
       }
       .cls-1 {
         fill: #66e4ee;
